@@ -25,7 +25,23 @@ Adjusted Model     |     Auto Model
 :------------:|:-----------:
 ![](ActualDataModel.png) | ![](DerivedDataModel.png)
 
-The data model is a star schema
-There are 5-dimension tables and 1 fact table. The dimensions table are joined to the fact table with a one to many relationship
+The data model is a snowflake schema
+There are 4-dimension tables and 2 fact tables. The dimensions table are joined to the fact table with a one to many and one to one relationships
+
+## Visualization
+The report comprises of 4 Pages
+1. An Overview 
+2. Customer Analysis 
+3. Product Analysis
+4. Delevery Analysis
+
+You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMTczYzBiOGYtZjc4NC00NGM0LWE5NjUtNjllMjUzOWJlNzY2IiwidCI6IjM3ZGNlYjFkLTdhYzMtNDA2Ny04NjJiLTU5NGQ5ZjM2MzUyMiJ9)
+
+# Analysis
+--------------
+
+### No of Goods Ordered each month
+![](NoOfGoodsOrderedByMonth.png)
+
 
 
