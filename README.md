@@ -45,7 +45,8 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiM
 
 ### Efficiency Assesment
 ![](Target.png)
-It appears that improving infull performance should be a priority, given that it has the lowest achieved percentage
+
+This analysis indicates overall performance shortfalls in meeting goals. Ontime delivery fell below the 86% target at 71.1%, infull fulfillment was at 66% instead of 77%, and combined ontime and infull lagged at 48% against the 66% target
 
 
 
