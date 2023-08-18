@@ -43,5 +43,9 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiM
 ### No of Goods Ordered each month
 ![](NoOfGoodsOrderedByMonth.png)
 
+### Efficiency Assesment
+![](Target.png)
+It appears that improving infull performance should be a priority, given that it has the lowest achieved percentage
+
 
 
