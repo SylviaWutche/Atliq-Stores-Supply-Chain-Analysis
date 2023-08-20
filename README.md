@@ -41,7 +41,7 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiM
 # Analysis
 --------------
 
-### No of Goods Ordered each month
+### Number of Orders each month
 ![](NoOfGoodsOrderedByMonth.png)
 
 Sales orders followed a pattern from March to August.This repeating pattern could be due to factors like seasons or what customers prefer.
