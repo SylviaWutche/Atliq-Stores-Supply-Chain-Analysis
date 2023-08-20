@@ -42,17 +42,25 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiM
 --------------
 
 ### Number of Orders each month
+*****
 ![](NoOfGoodsOrderedByMonth.png)
 
 Orders followed a pattern from March to August. They were highest in March, went down in April, then rose again in May. In June, they decreased, but in July, they picked up again. However, in August, they decreased significantly. 
 
+### Number of Orders by City
+******
+![](OrdersByCity.png)
+
+There's a relatively balanced spread of orders among these three cities, with Enugu having a slightly higher demand compared to Abuja and Lagos.
+
 ### Goal Achievement 
+******
 ![](Target.png)
 
 This analysis indicates an overall performance shortfalls in meeting goals. Ontime delivery fell below the 86% target at 71.1%, infull fulfillment was at 66% instead of 77%, and combined ontime and infull lagged at 48% against the 66% target.
 
 ### Customer Classification
-
+*****
 High Value Customers      |      Low Value Customers
 :------------:|:-----------:
 ![](TopPerformingCustomers.png) | ![](LeastPerformingCustomers.png)
