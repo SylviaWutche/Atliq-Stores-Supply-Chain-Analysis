@@ -58,11 +58,13 @@ High Value Customers      |      Low Value Customers
 
 Stores like Vijay Stores and Lotus Mart place a lot of orders, around 1.16 to 1.18 million. Other stores like Logic Stores and Chipec Stores place fewer orders, around 756,000 to 766,000. To improve, we can learn from the busy stores and find ways to encourage more orders from the less busy ones.
 
-### No of orders by category
+### Category Order Count
 *****
 ![](NoOfGoodOrderedByCategory.png)
+
 Among the different categories, diary foods stand out by securing more than 70% of the total orders. This substantial portion indicates a strong preference for diary foods compared to other categories.
 
-### No of orders by day
-![](NoOfGoodsOrderedByDay.png
+### Order Fufilment
+*****
+![](OrderFufilmentPerCustomer.png)
 
