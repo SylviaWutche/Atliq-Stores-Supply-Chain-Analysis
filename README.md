@@ -64,7 +64,34 @@ Stores like Vijay Stores and Lotus Mart place a lot of orders, around 1.16 to 1.
 
 Among the different categories, diary foods stand out by securing more than 70% of the total orders. This substantial portion indicates a strong preference for diary foods compared to other categories.
 
-### Order Fufilment
+### Ontime Delivery Trend
 *****
-![](OrderFufilmentPerCustomer.png)
+![](OntimeDeliveryVsOrdersEachMonth.png)
+
+When there are more orders, like in March and May, the on time delivery percentage is a bit lower. But when there are fewer orders, like in April and August, the deliveries on time are better.
+
+### 
+*****
+![](DeliveryVarianceQuantity.png)
+
+The majority of orders are delivered on the expected date (65.08%). 
+
+## Summary
+*****
+- Analysis were conducted for the months of March to August.
+- The months of March, May, and July showed high order volumes, while April, June, and August had lower volumes.
+- The report highlighted the dominance of diary foods, accounting for over 50% of total orders.
+- Orders were often delivered on time, but there were variations based on order quantity and timing.
+
+## Recommendations
+*****
+
+1. Offering special discounts in months when orders are usually low can help increase the number of orders.
+2. Engage with both top-performing and least-performing customers to understand their needs and preferences better. Collect feedback through surveys, reviews, or direct interactions to improve overall customer satisfaction.
+3. Make sure products always arrive on time by improving how things are organized and delivered.
+4. Because people order a lot of dairy foods, think about adding more kinds of dairy products to please different tastes and get more customers interested.
+
+![](ThankYou.png)
+
+
 
