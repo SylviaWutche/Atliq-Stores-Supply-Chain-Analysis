@@ -43,10 +43,19 @@ You can interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiM
 ### No of Goods Ordered each month
 ![](NoOfGoodsOrderedByMonth.png)
 
+Sales orders followed a pattern from March to August.This repeating pattern could be due to factors like seasons or what customers prefer.
+
 ### Efficiency Assesment
 ![](Target.png)
 
-This analysis indicates overall performance shortfalls in meeting goals. Ontime delivery fell below the 86% target at 71.1%, infull fulfillment was at 66% instead of 77%, and combined ontime and infull lagged at 48% against the 66% target
+This analysis indicates overall performance shortfalls in meeting goals. Ontime delivery fell below the 86% target at 71.1%, infull fulfillment was at 66% instead of 77%, and combined ontime and infull lagged at 48% against the 66% target.
 
+### Customer Classification
+
+High Value Customers      |      Low Value Customers
+:------------:|:-----------:
+![](TopPerformingCustomers.png) | ![](LeastPerformingCustomers.png)
+
+Stores like Vijay Stores and Lotus Mart place a lot of orders, around 1.16 to 1.18 million. Other stores like Logic Stores and Chipec Stores place fewer orders, around 756,000 to 766,000. To improve, we can learn from the busy stores and find ways to encourage more orders from the less busy ones.
 
 
