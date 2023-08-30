@@ -25,7 +25,7 @@ Adjusted Model     |     Auto Model
 :------------:|:-----------:
 ![](ActualDataModel.png) | ![](DerivedDataModel.png)
 
-The data model is a snowflake schema.
+The data model is a star schema.
 There are 4-dimension tables and 2 fact tables. The dimensions table are joined to the fact table with a one to many and one to one relationships.
 
 
